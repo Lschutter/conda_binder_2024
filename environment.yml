@@ -9,12 +9,13 @@ dependencies:
   - lotly
   - pandas
   - matplotlib
-  - scikitlearn
+  - scikit-learn
   - numpy
-  - r-dpylyr
+  - r-dplyr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
   - plotly
   - r-stringr
+  
   
